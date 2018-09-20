@@ -1,0 +1,13 @@
+Compiler le projet avec le fichier Makefile
+
+nettoyer :
+
+make clean 
+
+
+compiler :
+make
+
+lacer:
+
+make run
